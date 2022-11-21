@@ -32,3 +32,7 @@ ini tampilannya
 ### Membuat While 
 ini tampilannya 
 ![gambar8](jj/jj8.png)
+
+### Membuat Forminout
+ini tampilannya 
+![gambar9](jj/jj9.png)
